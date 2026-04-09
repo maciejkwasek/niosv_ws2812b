@@ -7,6 +7,8 @@
 /qdb/
 /output_files/
 /simulation/
+/.qsys_edit/
+/niosv_ws2812b/
 
 ######################################
 # Quartus – pliki robocze / cache
@@ -21,6 +23,7 @@
 *.old
 *.tmp
 *.autosave
+*.sopcinfo
 
 ######################################
 # Quartus GUI / sesje

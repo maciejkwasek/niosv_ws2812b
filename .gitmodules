@@ -1,0 +1,3 @@
+[submodule "ip/ws2812b_mm"]
+	path = ip/ws2812b_mm
+	url = git@github.com:maciejkwasek/ws2812b_mm.git
