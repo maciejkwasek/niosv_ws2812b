@@ -9,6 +9,9 @@
 /simulation/
 /.qsys_edit/
 /niosv_ws2812b/
+/software/hal_bsp/build/
+/software/hal_bsp/.cproject
+/software/hal_bsp/.project
 
 ######################################
 # Quartus – pliki robocze / cache
